@@ -95,7 +95,7 @@ header>.Humanresources-tab{
      height: 30px;
 }
 .Cart-div{
-     background-color: #4067e7;
+     background-color: #25a12f;
      padding-left: 10px;
      padding-right: 10px;
      cursor: pointer;
@@ -274,7 +274,7 @@ header>.Humanresources-tab{
      border: none;
 }
 .Divs-3-button:hover{
-     background-color: #77CC6D;
+     background-color: #0389FF;
      color: white;
      padding: 10px;
 }
